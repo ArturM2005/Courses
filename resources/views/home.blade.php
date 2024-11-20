@@ -7,6 +7,8 @@
     <title>Home</title>
 </head>
 <body>
-    Home
+    <header>
+        <x-nav></x-nav>
+    </header>
 </body>
 </html>
